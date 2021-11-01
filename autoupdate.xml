@@ -3,5 +3,5 @@
     <version>0.1.8.0</version>
     <url>https://github.com/DroppedCakes/whiteout-supreme-update/releases/download/v0.1.8-beta8/WhiteoutForSupremeSetup64.msi</url>
     <changelog>https://github.com/DroppedCakes/whiteout-supreme-update/releases</changelog>
-    <mandatory mode="2">true</mandatory>
+    <mandatory>true</mandatory>
 </item>
