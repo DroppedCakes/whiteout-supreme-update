@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <item>
-    <version>1.7.1.0</version>
-    <url>https://github.com/DroppedCakes/whiteout-supreme-update/releases/download/v1.7.1/WhiteoutForSupremeSetup64.msi</url>
+    <version>1.8.0.0</version>
+    <url>https://github.com/DroppedCakes/whiteout-supreme-update/releases/download/v1.8.0/WhiteoutForSupremeSetup64.msi</url>
     <changelog>https://github.com/DroppedCakes/whiteout-supreme-update/releases</changelog>
     <mandatory>true</mandatory>
 </item>
